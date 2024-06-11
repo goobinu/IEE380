@@ -8,3 +8,8 @@
   If you still have issues after doing so I'd be happy to take a look and either help fix the error or upload a new version which don't utilize these commands.
 
   
+### Naming conventions
+  Putting descriptive names into such a small space was a bit of a challenge so often a letter will stand for something that will be indicative of the 
+  programs function. I've established the common ones bellow to avoid confusion (I'll update this as programs are added as well):
+    - "PZT": Prop Z Test
+    - "ZT": Z Test
