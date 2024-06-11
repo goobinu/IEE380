@@ -1,6 +1,10 @@
 # IEE380
 > This repository holds some programs that will calculate certain values which can't already be done via standard TI calculators
 
+### Downloading programs to you TI calculator
+
+[This link will take you to a manual on what program you need to install things to your calculator and how to set it up](https://education.ti.com/en/product-resources/download#:~:text=Next%2C%20you'll%20need%20TI,Don't%20have%20it%20yet%3F)
+
 ### Version notes
   Some programs may use commands like ``toString()`` which are not available on version of the OS earlier than 5.2
   To check your OS version view [this video](https://www.youtube.com/watch?v=SIN1ESNRMfc).
